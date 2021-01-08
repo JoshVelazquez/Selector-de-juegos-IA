@@ -1,0 +1,107 @@
+[
+    {
+        "nombre" : "Call of Duty Warzone",
+        "precio" : 580,
+        "imagen" : "static\\images\\call-of-duty-warzone.jpg"
+    }, 
+    {
+        "nombre" : "Super Mario Odyssey",
+        "precio" : 300,
+        "imagen" : "static\\images\\super-mario-odyssey.jpg"
+    },
+    {
+        "nombre" : "The Legend of Zelda Breath of the Wild",
+        "precio" : 220,
+        "imagen" : "static\\images\\zelda-breath-of-the-wild.jpg"
+    },
+    {
+        "nombre" : "Super Smash Bros. Ultimate",
+        "precio" : 700,
+        "imagen" : "static\\images\\smash-bros-ultimate.jpg"
+    },
+    {
+        "nombre" : "Sonic Forces",
+        "precio" : 130,
+        "imagen" : "static\\images\\sonic-forces.jpg"
+    },
+    {
+        "nombre" : "Forza Horizon 4",
+        "precio" : 222,
+        "imagen" : "static\\images\\forza-horizon-4.jpg"
+    },
+    {
+        "nombre" : "Minecraft",
+        "precio" : 300,
+        "imagen" : "static\\images\\minecraft.jpg"
+    },
+    {
+        "nombre" : "Grand Theft Auto V",
+        "precio" : 150,
+        "imagen" : "static\\images\\GTA-V.jpg"
+    },
+    {
+        "nombre" : "League of Legends",
+        "precio" : 0,
+        "imagen" : "static\\images\\League-of-Legends.jpg"
+    },
+    {
+        "nombre" : "Doom Eternal",
+        "precio" : 666,
+        "imagen" : "static\\images\\doom-eternal.jpg"
+    },
+    {
+        "nombre" : "Animal Crossing New Horizons",
+        "precio" : 222,
+        "imagen" : "static\\images\\Animal-Crossing-New-Horizons.jpg"
+    },
+    {
+        "nombre" : "Mortal Kombat 11",
+        "precio" : 850,
+        "imagen" : "static\\images\\mortal-kombat-11.jpg"
+    },
+    {
+        "nombre" : "Halo Infinite",
+        "precio" : 999,
+        "imagen" : "static\\images\\halo-infinite.jpg"
+    },
+    {
+        "nombre" : "Valorant",
+        "precio" : 100,
+        "imagen" : "static\\images\\VALORANT.jpg"
+    },
+    {
+        "nombre" : "Fortnite",
+        "precio" : 50,
+        "imagen" : "static\\images\\fortnite.jpg"
+    },
+    {
+        "nombre" : "Dead by Daylight",
+        "precio" : 200,
+        "imagen" : "static\\images\\dead-by-daylight.jpg"
+    },
+    {
+        "nombre" : "Overwatch",
+        "precio" : 350,
+        "imagen" : "static\\images\\Overwatch.jpg"
+    },
+    {
+        "nombre" : "Dark Souls III",
+        "precio" : 777,
+        "imagen" : "static\\images\\dark-souls-iii.jpg"
+    },
+    {
+        "nombre" : "Pokemon Espada y Escudo",
+        "precio" : 450,
+        "imagen" : "static\\images\\pokemon-espada-escudo.jpg"
+    },
+    {
+        "nombre" : "Gears of Wars 5",
+        "precio" : 750,
+        "imagen" : "static\\images\\gears-5.jpg"
+    },
+    {
+        "nombre" : "The Last of Us Part 2",
+        "precio" : 999,
+        "imagen" : "static\\images\\the-last-of-us-part-ii.jpg"
+    }
+]

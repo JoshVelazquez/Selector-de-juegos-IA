@@ -1,0 +1,28 @@
+{% extends "layout.html" %} {% block body %}
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-10">
+            <table class="table table-bordered table-dark">
+                <h2>Juegos comprados en total: {{numeroJuegos}}</h2>
+                <h3>Total de compra: ${{total}}</h3>
+                <thead>
+                    <tr>
+                        <td>Nombre</td>
+                        <td>Precio</td>
+                        <td>Imagen</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for juego in juegos %}
+                    <tr>
+                        <td>{{juego["nombre"]}}</td>
+                        <td>{{juego["precio"]}}</td>
+                        <td><img src="{{juego['imagen']}}" alt="" height="300" width="150"></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
